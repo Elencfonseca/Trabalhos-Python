@@ -1,0 +1,7 @@
+﻿Domain;Code;Domain;Survey;Code;Survey;Geographic;Level;Code;Geographic;Level;Food;Group;Code;Food;Group;Indicator;Code;Indicator;Element;Code;Element;Unit;Value;Flag;Flag;Description
+MDDW;Diversity (MDD-W, based on individual qualitative dietary surveys);076_2014;Brazil - 2014;10001;Urban;FGW5;Meat, poultry and fish;6212;Percentage of women consuming each food group;6121;Value;%;92.1;E;Estimated value;;;;;;;;;;;
+MDDW;Diversity (MDD-W, based on individual qualitative dietary surveys);288_2022;Ghana - 2022;10001;Urban;FGW5;Meat, poultry and fish;6212;Percentage of women consuming each food group;6121;Value;%;91.9;E;Estimated value;;;;;;;;;;;
+
+import pandas as pd 
+import matplotlib.pyplot as plt 
+dados = 
